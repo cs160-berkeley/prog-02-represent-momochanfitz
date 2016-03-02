@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Represent!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_representatives">Representatives</string>
+
+    <string name="republican">Republican</string>
+    <string name="democrat">Democrat</string>
+    <string name="independent">Independent</string>
+</resources>
