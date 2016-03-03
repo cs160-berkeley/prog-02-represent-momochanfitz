@@ -1,10 +1,10 @@
 # PROG 02: Represent!
 
-Briefly describe your app here.
+The Represent! app allows for a user to get to know the congressional representatives for their county. Details such as supported bills, committees, and contact information are displayed for each representative found. There is a watch app designed for the Moto 360 that is counterpart to the mobile phone, allowing users to swipe through and select a representative from their wrist.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Maura Fitzgerald ([maurafitzgerald@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
