@@ -69,8 +69,6 @@ public class GridAdapter extends FragmentGridPagerAdapter {
             GridPage currGrid = new GridPage(names[i], parties[i], getIcon(parties[i]));
             row1.addPages(currGrid);
         }
-        //GridPage gridPage1 = new GridPage("Dianne Bklds;a", "Democrat", R.drawable.democrat);
-        //GridPage gridPage2 = new GridPage("Barb", "Republican", R.drawable.republican);
         mPages.add(row1);
     }
 

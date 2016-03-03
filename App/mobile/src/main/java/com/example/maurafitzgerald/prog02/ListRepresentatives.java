@@ -62,7 +62,7 @@ public class ListRepresentatives extends AppCompatActivity {
         Intent intent = getIntent();
 
         this.repData = (RepData)intent.getSerializableExtra("DATA");
-        Integer zip = repData.zipCode;
+        String zip = repData.zipCode;
         getSupportActionBar().setTitle(zip.toString());
 
         this.repID = (Integer) intent.getExtras().get("CurrentRep");
@@ -94,7 +94,9 @@ public class ListRepresentatives extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
-                unregisterReceiver(activityReceiver);
+                if (activityReceiver != null) {
+                    unregisterReceiver(activityReceiver);
+                }
                 super.onBackPressed();
                 return true;
         }

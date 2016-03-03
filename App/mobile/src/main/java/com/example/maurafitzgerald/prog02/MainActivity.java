@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity implements
             public void onReceive(Context context, Intent intent) {
                 Boolean shaken = (Boolean) intent.getExtras().get("Shaken");
                 if (shaken != null && shaken.equals(true)) {
-                    RepData newRepData = new RepData(FAKE_RANDOM_ZIPCODE);
+                    RepData newRepData = new RepData("RANDOM ZIP CODE");
                     newRepData.shuffleRepresentatives();
                     newRepData.county = "RANDOM COUNTY";
                     newRepData.state = "RANDOM STATE";
