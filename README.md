@@ -12,7 +12,10 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/201presidential.png" height="400" alt="Screenshot"/>
+<img src="screenshots/watchview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/listview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/homescreen.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
