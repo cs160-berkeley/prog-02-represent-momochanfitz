@@ -16,5 +16,4 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Thilo Köhler, StackOverflow - Detecting watch shake
