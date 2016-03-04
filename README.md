@@ -8,7 +8,7 @@ Maura Fitzgerald ([maurafitzgerald@berkeley.edu](mailto:your_email@berkeley.edu)
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [a demo of the Represent! app] (https://youtu.be/mYIkFen2q_k (Links to an external site.))
 
 ## Screenshots
 
