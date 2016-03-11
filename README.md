@@ -8,13 +8,20 @@ Maura Fitzgerald ([maurafitzgerald@berkeley.edu](mailto:your_email@berkeley.edu)
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [a demo of the Represent! app] (https://youtu.be/LxZvGK5C0mk)
 
 ## Screenshots
+<img src="screenshots/homeview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/searchview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/repview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/listview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/repviewwatch.png" height="400" alt="Screenshot"/>
+<img src="screenshots/repview2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/graphview.png" height="400" alt="Screenshot"/>
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Thilo Köhler, StackOverflow - Detecting watch shake
+* Sunlight API
+* Twitter - Fabric API
