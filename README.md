@@ -23,3 +23,5 @@ See [a demo of the Represent! app] (https://youtu.be/mYIkFen2q_k)
 ## Acknowledgments
 
 * Thilo Köhler, StackOverflow - Detecting watch shake
+* Sunlight API
+* Twitter - Fabric API
