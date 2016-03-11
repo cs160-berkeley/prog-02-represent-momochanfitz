@@ -12,10 +12,10 @@ See [a demo of the Represent! app] (https://youtu.be/mYIkFen2q_k)
 
 ## Screenshots
 
-<img src="screenshots/201presidential.png" height="400" alt="Screenshot"/>
-<img src="screenshots/watchview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/searchview.png" height="400" alt="Screenshot"/>
+<img src="screenshots/repview.png" height="400" alt="Screenshot"/>
 <img src="screenshots/listview.png" height="400" alt="Screenshot"/>
-<img src="screenshots/homescreen.png" height="400" alt="Screenshot"/>
+<img src="screenshots/graphview.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
